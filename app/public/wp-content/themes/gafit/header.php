@@ -25,9 +25,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <?php if ( !is_home() && !is_front_page() ) { ?>
 <link href="<?php echo get_template_directory_uri(); ?>/assets/css/page.css" rel="stylesheet" type="text/css" />
 <?php } ?>
-<link rel="icon" href="./favicon.ico" sizes="32x32">
-<link rel="icon" href="./icon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="./apple-touch-icon.png">
+<link rel="icon" href="<?php echo get_template_directory_uri(); ?>/assets/img/favicon.ico" sizes="32x32">
+<link rel="icon" href="<?php echo get_template_directory_uri(); ?>/assets/img/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="<?php echo get_template_directory_uri(); ?>/assets/img/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200..900&family=Poppins:ital,wght@1,200;1,400;1,500&family=Zen+Maru+Gothic:wght@400;700&family=Zen+Old+Mincho:wght@400;600&display=swap" rel="stylesheet">
