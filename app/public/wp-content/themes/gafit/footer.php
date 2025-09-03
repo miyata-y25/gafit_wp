@@ -9,6 +9,7 @@
     <h3 class="site-footer__logo"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/common/header_logo.svg" alt="GAFIT"></h3>
     <ul class="site-footer__nav">
         <li><a href="<?php echo home_url('/'); ?>law/">特定商取引法に基づく表記</a></li>
+        <li><a href="https://www.gafit.jp/uncategorized/%e3%81%94%e5%88%a9%e7%94%a8%e6%a1%88%e5%86%85/">ご利用案内</a></li>
     </ul>
     <p class="copyright">
         掲載されている写真はイメージです<br>

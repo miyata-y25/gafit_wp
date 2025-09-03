@@ -1,3 +1,10 @@
+<?php
+/*
+ *
+ * Template Name: ピラティスTOP
+ *  
+ */
+?>
 <?php get_header(); ?>
 
 <section class="top-main">
@@ -1003,7 +1010,6 @@
     <img src="<?php echo get_template_directory_uri(); ?>/assets/img/top/sns_img.svg" alt="SNS投稿を応援!!">
 </div>
 
-<?php /*
 <section class="sec --staff">
     <h2 class="sec__ttl">
         <span class="sec__ttl__en">STAFF</span>
@@ -1038,7 +1044,6 @@
         ?>
     </ul>
 </section>
-*/?>
 
 <section class="sec --price" id="link06">
     <h2 class="sec__ttl">
@@ -1092,7 +1097,7 @@
     <div class="flow-area">
         <ol class="flow-area__ol">
             <li>まずはWeb入会</li>
-            <li>次にご来店手続き</li>
+            <li>プレオープン後にご来店手続き</li>
         </ol>
         <h3 class="flow-area__ttl">入会に必要なもの</h3>
         <ul class="flow-area__ul">
@@ -1110,7 +1115,6 @@
     </div>
 </section>
 
-<?php /*
 <section class="sec --column">
     <h2 class="sec__ttl">
         <span class="sec__ttl__en">COLUMN</span>
@@ -1147,7 +1151,6 @@
     </ul>
     <a href="column/" class="btn btn--oraW btn--590">全ての記事を読む</a>
 </section>
-*/?>
 
 <section class="sec --insta">
     <h2 class="insta-ttl">
@@ -1161,7 +1164,6 @@
     </figure>
 </section>
 
-<?php /*
 <section class="sec --faq">
     <h2 class="sec__ttl">
         <span class="sec__ttl__en">FAQ</span>
@@ -1184,7 +1186,6 @@
         wp_reset_postdata();
     ?>
 </section>
-*/?>
 
 <section class="sec --access" id="link07">
     <h2 class="sec__ttl">
@@ -1201,7 +1202,7 @@
     </dl>
     <dl class="access-dl">
         <dt>TEL</dt>
-        <dd>0532-26-7665</dd>
+        <dd>090-9222-5505<br>GAFIT豊橋三ノ輪オープン準備室<br>受付時間：平日10時〜17時</dd>
     </dl>
     <dl class="access-dl">
         <dt>営業時間</dt>
