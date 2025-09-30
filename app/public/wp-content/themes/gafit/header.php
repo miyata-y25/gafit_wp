@@ -15,8 +15,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="format-detection" content="telephone=no">
 <meta content="IE=edge" http-equiv="X-UA-Compatible" />
 <meta content="telephone=no" name="format-detection" />
-<meta content="" name="keywords" />
-<meta content="" name="description" />
+<meta content="愛知県,豊橋市,三ノ輪,フィットネス,クラブ,ボディメイク,ジム,24時間ジム,24時間営業,ダイエット,フィットネススタジオ,レズミルズ,ヨガ,ズンバ,マシンピラティス,ピラティススタジオ,ガフィット,GAFIT" name="keywords" />
+<meta content="地域最大級約1,100㎡の24時間フィットネスジム＆マシンピラティススタジオ。運動初心者でも使いやすいく、上級者も納得のマシンラインナップ。スタジオでは多彩なプログラムをインストラクターによるライブレッスンでお届け。サウナや岩盤浴もあり。話題のマシンピラティスは少人数10人制セミパーソナルでお届け。" name="description" />
 <link href="<?php echo get_template_directory_uri(); ?>/assets/css/base.css" rel="stylesheet" type="text/css" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simplebar@latest/dist/simplebar.css"/>
 <?php if ( is_home() || is_front_page() ) { ?>

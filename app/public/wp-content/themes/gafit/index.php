@@ -165,13 +165,13 @@
             <p class="txt">館内は無料Wi-Fiを完備。音楽や動画をご覧いただきながらトレーニング♪</p>
         </li>
     </ul>
-    <?php /*
     <h2 class="yourself-sec__ttl --italic">MOVIE</h2>
-    <figure class="yourself-sec__mv">
-        <img src="<?php echo get_template_directory_uri(); ?>/assets/img/top/yourself_mv.png" alt="">
-    </figure>
-    <p class="news-more --wt"><a href="#" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/common/logo_yt2.svg" alt="">Youtubeで見る</a></p> -->
-    */?>
+    <div class="yourself-sec__mvcont">
+        <div class="yourself-sec__mv">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/M3u3UlWPa2o?si=rLXI_U9CJwhjGW62" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        <p class="news-more --wt"><a href="https://youtu.be/M3u3UlWPa2o" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/common/logo_yt2.svg" alt="">Youtubeで見る</a></p>
+    </div>
 </section>
 
 <section class="sec --facility" id="link04">
